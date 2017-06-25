@@ -1,0 +1,101 @@
+typography_spectrum: 0.1362420674770296
+color:
+  brandStrength: 1
+  lightness: 0.5904244709760872
+  saturation: 0.96635920410358
+  rhythmicContrast: 0.4481293070873264
+  brandColors:
+    - '#FFFFFF'
+    - '#D3D3D3'
+    - '#699679'
+    - '#E9685D'
+    - '#E0E0E0'
+layout_spectrum: 0.2697677065658909
+author:
+  email: info@mrsean.xyz
+  name: ''
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/b44531c2-3a96-4dae-94d3-e5e420b05ccd.png
+name: ' '
+url: 'http://seanloveshouseofradon.com/'
+colors:
+  brandColors:
+    - 'hsl(0,0%,100%)'
+    - 'hsl(0,0%,80%)'
+    - 'hsl(0,0%,60%)'
+    - 'hsl(0,0%,30%)'
+    - 'hsl(0,0%,20%)'
+navigation:
+  - name: Video intro
+    id: bb17519a-1bce-4f70-b1a8-7c3759092e62
+    type: content
+  - name: CV
+    id: d50940d9-19e4-494f-9d57-9bb73b6543a9
+    type: content
+  - name: Recent Work
+    id: afa7356e-8854-4082-aff5-6012d1c97223
+    type: content
+  - name: Photo Gallery
+    id: e81820f4-b544-4d74-8e42-15551d9a285a
+    type: content
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/defe6c11-5028-4b6a-8b11-5c5f2c452f0d.png
+title: Hello House Of Radon
+content:
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: image
+    html: >-
+      <img
+      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/0affa5d5-0aa5-4c8a-b581-a155165ab23c.png">
+    src: >-
+      https://the-grid-user-content.s3-us-west-2.amazonaws.com/0affa5d5-0aa5-4c8a-b581-a155165ab23c.png
+    metadata:
+      datePublished: null
+      keywords: []
+      related: []
+      author: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      app_links: []
+      publisher:
+        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
+        name: The-grid-user-content
+        favicon: null
+        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
+      description: ''
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: image
+    html: >-
+      <img
+      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/de1bb3f3-8101-428d-aedf-b194d101a95e.png">
+    src: >-
+      https://the-grid-user-content.s3-us-west-2.amazonaws.com/de1bb3f3-8101-428d-aedf-b194d101a95e.png
+    metadata:
+      datePublished: null
+      keywords: []
+      related: []
+      author: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      app_links: []
+      publisher:
+        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
+        name: The-grid-user-content
+        favicon: null
+        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
+      description: ''
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
+description: '"I like your boat"'
+purpose:
+  - type: contact
+    url: 'mailto:info@mrsean.xyz'
+    label: Email
+  - type: internal
+    label: Video
+    item: bb17519a-1bce-4f70-b1a8-7c3759092e62
+github: true
