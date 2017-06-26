@@ -1,8 +1,8 @@
 ---
 inFeed: false
 description: Curriculum Vitae
-dateModified: '2017-06-26T15:57:06.679Z'
-datePublished: '2017-06-26T15:57:07.193Z'
+dateModified: '2017-06-26T16:22:01.968Z'
+datePublished: '2017-06-26T16:22:02.515Z'
 title: ''
 author: []
 publisher: {}
@@ -18,6 +18,10 @@ _type: MediaObject
 Curriculum Vitae
 
 .
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/74c80b92-022b-46e3-8e1e-17466b754664.jpg)
+
+.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/45714833-7056-4105-a902-a98f1b6d4747.jpg)
 
 **PROFILE**
 
