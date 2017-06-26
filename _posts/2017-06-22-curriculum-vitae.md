@@ -1,8 +1,8 @@
 ---
 inFeed: false
 description: Application Letter
-dateModified: '2017-06-26T19:21:44.688Z'
-datePublished: '2017-06-26T19:21:45.546Z'
+dateModified: '2017-06-26T21:00:43.270Z'
+datePublished: '2017-06-26T21:00:44.200Z'
 title: ''
 author: []
 publisher: {}
@@ -17,7 +17,7 @@ _type: MediaObject
 ---
 Application Letter
 
-I've worked as a Photographer, DP, DIT, Editor, Director, Audio technician, Fixer, Casting director, Artist, Philosopher, Driver, you name it! But I don't call myself any of those things, I do whatever is needed to create and enable the vision to happen. Working in this industry and running a small video production company I've learned that it's always collaborative and super rewarding when one works with great people and everybody pulls in the same direction. I've also come to enjoy all aspects of working in this industry, from meeting clients and helping them craft their ideas, to planning and executing the logistics of making those ideas a reality.
+I've worked as a Photographer, DP, DIT, Editor, Director, Audio technician, Fixer, Casting director, Artist, Philosopher, Driver, you name it! But I don't call myself any of those things, I do whatever is needed to create and enable the vision to happen. Working in this industry and running a small video production company I've learned that it's always collaborative and super rewarding when one works with great people and everybody pulls in the same direction. I've also come to enjoy all aspects of working in this field, from meeting clients and helping them craft their ideas, to planning and executing the logistics of making those ideas a reality.
 
 I'm friendly by nature with an open heart but I'm also able to stay focused and deliver projects under pressure. I often work independently but love collaboration and getting the best out of people.
 
