@@ -1,8 +1,8 @@
 ---
 inFeed: false
-description: Curriculum Vitae
-dateModified: '2017-06-26T17:07:49.413Z'
-datePublished: '2017-06-26T17:07:49.900Z'
+description: Application Letter
+dateModified: '2017-06-26T17:15:34.324Z'
+datePublished: '2017-06-26T17:15:34.759Z'
 title: ''
 author: []
 publisher: {}
@@ -15,7 +15,7 @@ url: curriculum-vitae/index.html
 _type: MediaObject
 
 ---
-Curriculum Vitae
+Application Letter
 
 I've worked as a Photographer, DP, DIT, Editor, Director, Audio technician, Fixer, Casting director, Artist, Philosopher, Driver, you name it! But I don't call myself any of those things, I do whatever is needed to create and enable the vision to happen. Working in this industry and running a small video production company I've learned that it's always collaborative and super rewarding when one works with great people and everybody pulls in the same direction. I've also come to enjoy all aspects of work in this industry, from meeting clients and helping them craft their ideas, to planning and executing the logistics of making those ideas a reality.
 
@@ -30,7 +30,9 @@ My entrepreneurial spirit is what has pushed me to keep trying new things, to le
 Thank you for your time and consideration
 
 Sean
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/74c80b92-022b-46e3-8e1e-17466b754664.jpg)
 
-.
-![](https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/82d06df8dd16e3c10612fb793e4e844e/croprotate.jpg?cropheight=2556&cropwidth=1803&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F45714833-7056-4105-a902-a98f1b6d4747.jpg&x=5&y=0)
+---
+
+Curriculum Vitae
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c40ff78e-8cba-4b95-8034-f5cd71748e47.png)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/eb438e71-92bc-4f60-9045-74192a613ce8.jpg)
