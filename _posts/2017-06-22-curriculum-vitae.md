@@ -1,8 +1,8 @@
 ---
 inFeed: false
 description: Curriculum Vitae
-dateModified: '2017-06-26T15:31:38.250Z'
-datePublished: '2017-06-26T15:31:38.885Z'
+dateModified: '2017-06-26T15:33:17.194Z'
+datePublished: '2017-06-26T15:33:17.684Z'
 title: ''
 author: []
 publisher: {}
@@ -29,7 +29,7 @@ Photographer, DOP and Filmmaker interested in people and their stories. Highly e
 
 _DIRECTOR, CAPSLOCK LTD; LONDON, UK --- 2014-2017_
 
-Co-founded a small company in 2014 as a creative start up collaboration with Swedish business partner. We offer video production, photographic services, sound design, creative writing and develop ideas for the TV and film industry. Based at The Sharp Project, a digital hub housing approximately 60 companies all working in the digital, photographic, TV and film sector. Link
+Co-founded a small company in 2014 as a creative start up collaboration with Swedish business partner. We offer video production, photographic services, sound design, creative writing and develop ideas for the TV and film industry. Based at The Sharp Project, a digital hub housing approximately 60 companies all working in the digital, photographic, TV and film sector. [Link][0]
 
 _CREATIVE DIRECTOR, MONKEYSWAG; MANCHESTER, UK --- 2011-2014_
 
@@ -78,3 +78,5 @@ Sebastian Zhang - Director; MonkeySwag : +44 7502 328788
 Charles Woods - Regional Manager; CAMBO Photographic : +44 7863 116150
 
 John Mariner - Client Liaison Manager; The Sharp Project : +44 7985 612035
+
+[0]: http://www.thesharpproject.co.uk/digital-content-specialists-move-sharp-project/ "Sean at Sharp"
