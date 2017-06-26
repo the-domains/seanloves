@@ -1,9 +1,9 @@
 ---
 inFeed: false
 description: Photo Gallery
-dateModified: '2017-06-26T13:29:59.612Z'
-datePublished: '2017-06-26T13:30:00.060Z'
-title: ''
+dateModified: '2017-06-26T13:37:28.537Z'
+datePublished: '2017-06-26T13:37:29.051Z'
+title: 'You can also check out my instagram feed here:'
 author: []
 publisher: {}
 via: {}
@@ -18,21 +18,21 @@ _type: MediaObject
 Photo Gallery
 
 .
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/95375b11-692b-4e56-a430-93f9f24f8c28.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c1924ec3-7be1-4959-b6ba-145f2a06e60c.jpg)
 
 .
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7b776e98-e5d2-4ec0-b131-ae3682e34b5c.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/2c174fc8-387d-4d8b-ae49-e2ab413dc066.jpg)
 
 .
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9499a99e-32fd-4a98-ad3d-1842f9ff4e6d.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/2cae70bd-653b-4cfa-8bec-cd1715b62ae0.jpg)
 
 .
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8373c563-7444-495b-8ea8-80b8557e4ac8.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/010e48e1-036b-4b96-8b94-7f2026c66fa9.jpg)
 
 .
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a276f725-c204-467e-bc17-d9422f373677.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3ae3ae84-a256-492a-b8ff-35e2d57c8b5b.jpg)
 
 .
 
-You can also check out my instagram feed here:
-![](https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/d2e687bc7e84589ffcfdff8079f6d9af/noop.jpg?input=https%3A%2F%2Fscontent.cdninstagram.com%2Ft51.2885-19%2F10544280_530953807050529_1178245641_a.jpg)
+## You can also check out my instagram feed here:
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/79061abf796b871adea30e288ea2b27fb330e1a2.jpg)
