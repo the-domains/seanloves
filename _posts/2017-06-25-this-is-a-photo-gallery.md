@@ -1,8 +1,8 @@
 ---
 inFeed: false
 description: Photo Gallery
-dateModified: '2017-06-26T13:28:20.922Z'
-datePublished: '2017-06-26T13:28:21.442Z'
+dateModified: '2017-06-26T13:29:59.612Z'
+datePublished: '2017-06-26T13:30:00.060Z'
 title: ''
 author: []
 publisher: {}
@@ -35,5 +35,4 @@ Photo Gallery
 .
 
 You can also check out my instagram feed here:
-
-<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJzLKCkpKLbS1y8vL9fLzCsuSUwvSszVS87P1c8tii9OTcyLr6is0gcAG1YOnw" height="244" style=""></iframe>
+![](https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/d2e687bc7e84589ffcfdff8079f6d9af/noop.jpg?input=https%3A%2F%2Fscontent.cdninstagram.com%2Ft51.2885-19%2F10544280_530953807050529_1178245641_a.jpg)
