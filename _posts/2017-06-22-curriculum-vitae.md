@@ -1,8 +1,8 @@
 ---
 inFeed: false
 description: Application Letter
-dateModified: '2017-06-26T19:20:03.414Z'
-datePublished: '2017-06-26T19:20:03.945Z'
+dateModified: '2017-06-26T19:21:44.688Z'
+datePublished: '2017-06-26T19:21:45.546Z'
 title: ''
 author: []
 publisher: {}
@@ -21,7 +21,7 @@ I've worked as a Photographer, DP, DIT, Editor, Director, Audio technician, Fixe
 
 I'm friendly by nature with an open heart but I'm also able to stay focused and deliver projects under pressure. I often work independently but love collaboration and getting the best out of people.
 
-My entrepreneurial spirit is what has pushed me to keep trying new things, to learn new art forms, techniques, business practices and it has enabled my creativity to work in tandem with my quest for knowledge.
+My entrepreneurial spirit is what has pushed me to keep trying new things, to learn new art forms, techniques and business practices and this has enabled my creativity to work in tandem with my quest for knowledge.
 
 Thank you for your time and consideration.
 
