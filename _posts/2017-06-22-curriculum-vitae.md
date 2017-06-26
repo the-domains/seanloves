@@ -1,8 +1,8 @@
 ---
 inFeed: false
 description: Curriculum Vitae
-dateModified: '2017-06-26T10:36:32.556Z'
-datePublished: '2017-06-26T10:36:33.019Z'
+dateModified: '2017-06-26T10:36:33.596Z'
+datePublished: '2017-06-26T10:36:33.883Z'
 title: ''
 author: []
 publisher:
