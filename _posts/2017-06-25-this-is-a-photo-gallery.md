@@ -1,9 +1,9 @@
 ---
 inFeed: false
 description: Photo Gallery
-dateModified: '2017-06-26T13:40:52.899Z'
-datePublished: '2017-06-26T13:40:53.611Z'
-title: 'You can also check out my instagram feed here:'
+dateModified: '2017-06-26T13:41:48.572Z'
+datePublished: '2017-06-26T13:41:49.131Z'
+title: ''
 author: []
 publisher: {}
 via: {}
@@ -34,5 +34,5 @@ Photo Gallery
 
 .
 
-### You can also check out my instagram feed here:
+You can also check out my INSTAGRAM feed here:
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/79061abf796b871adea30e288ea2b27fb330e1a2.jpg)
