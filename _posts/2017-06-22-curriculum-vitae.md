@@ -1,8 +1,8 @@
 ---
 inFeed: false
 description: Curriculum Vitae
-dateModified: '2017-06-26T15:39:15.489Z'
-datePublished: '2017-06-26T15:39:16.270Z'
+dateModified: '2017-06-26T15:54:35.914Z'
+datePublished: '2017-06-26T15:54:36.465Z'
 title: ''
 author: []
 publisher: {}
@@ -70,6 +70,7 @@ Fully proficient with Adobe Creative Suite, CaptureOne, FCPX, DaVinci Resolve, F
 ---
 
 **REFERENCES**
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a4d633e0-58ab-497d-afd6-1ae060f70156.epub)
 
 Dr Anders Lycksell - Co Founder; CAPSLOCK : +46 762 969102
 
