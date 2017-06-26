@@ -1,8 +1,8 @@
 ---
 inFeed: false
 description: List of recent work.
-dateModified: '2017-06-26T13:54:27.158Z'
-datePublished: '2017-06-26T13:54:27.616Z'
+dateModified: '2017-06-26T13:54:27.717Z'
+datePublished: '2017-06-26T13:54:28.190Z'
 title: ''
 author: []
 publisher: {}
