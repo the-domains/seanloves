@@ -1,8 +1,8 @@
 ---
 inFeed: false
 description: List of recent work.
-dateModified: '2017-06-26T13:52:19.302Z'
-datePublished: '2017-06-26T13:52:20.371Z'
+dateModified: '2017-06-26T13:54:27.158Z'
+datePublished: '2017-06-26T13:54:27.616Z'
 title: ''
 author: []
 publisher: {}
@@ -18,5 +18,3 @@ _type: MediaObject
 List of recent work.
 
 Video links.
-
-<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJwlzUEOwiAQQNGrkDlAaWNaE1PatQt3eoAC00KEYoZB4u1tdPk3749-pSWiqN6yU9APLQiHfnOs4NT1IDIZBY75lS9S1lqbTypcNDYmRYlRo5Xne0zX22Ae23MmDKqd0byRVAfih-tE9kg46CWEVNcSQjaEuE-j_P-nLyV_LnE" height="315" style=""></iframe>
