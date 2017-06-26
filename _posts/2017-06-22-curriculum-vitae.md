@@ -1,15 +1,11 @@
 ---
 inFeed: false
 description: Curriculum Vitae
-dateModified: '2017-06-26T10:36:33.596Z'
-datePublished: '2017-06-26T10:36:33.883Z'
+dateModified: '2017-06-26T10:38:56.944Z'
+datePublished: '2017-06-26T10:38:57.362Z'
 title: ''
 author: []
-publisher:
-  url: 'https://www.prolificnorth.co.uk'
-  name: Prolific North
-  favicon: 'https://www.prolificnorth.co.uk/favicon.ico'
-  domain: www.prolificnorth.co.uk
+publisher: {}
 via: {}
 sourcePath: _posts/2017-06-22-curriculum-vitae.md
 hasPage: true
@@ -20,3 +16,4 @@ _type: MediaObject
 
 ---
 Curriculum Vitae
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c86245bd-2688-4da6-a369-47ec1bd158cd.png)
