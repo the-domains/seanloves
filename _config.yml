@@ -30,7 +30,7 @@ navigation:
   - name: Video intro
     id: bb17519a-1bce-4f70-b1a8-7c3759092e62
     type: content
-  - name: CV
+  - name: CV + Application
     id: d50940d9-19e4-494f-9d57-9bb73b6543a9
     type: content
   - name: Recent Work
