@@ -1,8 +1,8 @@
 ---
 inFeed: false
 description: List of recent work.
-dateModified: '2017-06-26T20:51:55.724Z'
-datePublished: '2017-06-26T20:51:56.289Z'
+dateModified: '2017-06-26T21:18:53.856Z'
+datePublished: '2017-06-26T21:18:54.371Z'
 title: ''
 author: []
 publisher: {}
@@ -19,4 +19,4 @@ List of recent work.
 
 Video links.
 
-<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJy9lc9S2zAQh-88xY4PnfZQTABnGobABBKHBMifSQiUS0ex1rKILBlJtjHP0zfpi1WhtJNrO5oeZXtW3_fTrjzT6gkTewJ9zrglAoZEE4YQwqXgKN2LoVJMbB-kSNzyppT0ueLGwlL_-F4RXULvAvZOeapJjlBzarNuELUPAsiQs8x2g6NWFIDRSTfIrC3MSRjWdb3fqNKWa9xPVB5ivkYaRtMneTyIP6dsfq5RdA_OMalQd1sBvBVfK03dMnCliRCqTkshTKIR5dlp-Gv_s73T4mxv9rdSqz4sMi6ZcS5eVMreF_s4WfGX-eY_q1xxsUHoo-FMelGxlsTjuEibV-ZJZUVEiQamKSxqpCgd-0Il3Mm9fwJKMuWOA0IvBuP7MrWsM5pf1p4MLkrDJRrn4OpUHOud84hdBVg3cJUXXuhnK9LE18OHUeerJ_rrsoYJsVxJF_mVEpySBm6dUgIVp6i8YA_u-qTdjm_0ga9hHpRaFUgkLGwj0CRuS7OT-9IN8OaCs1uknHhRuCuq6DDi4wEzvoaYpBZmpdy8gNWEC9Q7Ar8nfMLlEzFeDHp5J7nO-6N44qvz75HS7WS-NYqDn6E2b33EuFNLlXaFnQ71gp_LxbNojZePc1-tv6xd1A0ct8FkSjtgLvLdu7Tc_gca7ufmJIfN5Gi-un147XnC_5N28X5RhjAVFD7ABGs_iY_YHR0m31rRwBNyjInjXWoiTSGItGA2aJNsm38NHylWKNxUS_vJC38rxsNHjLK4nfwz_0-s1BLR" height="1000" style=""></iframe>
+<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJy9lc1S2zAUhfc8xR0vOu2imADONAyBCSQOCZCfSQiUTUexrmURWTKSbGOep2_SF6tCaSfbdjRdyvYcne_cH8-0esLEnkCfM26JgCHRhCGEcCk4SvdiqBQT2wcpEne8KSV9rrixsNQ_vldEl9C7gL1TnmqSI9Sc2qwbRO2DADLkLLPd4KgVBWB00g0yawtzEoZ1Xe83qrTlGvcTlYeYr5GG0fRJHg_izymbn2sU3YNzTCrU3VYAb-Jrpak7Bk6aCKHqtBTCJBpRnp2Gv-4_2zstzvZmfwu16sMi45IZx-IFpex9sY-TFX-Zb_4zyhUXG4Q-Gs6kFxRrSTyOi7R5ZZ5QVkSUaGCawqJGitJ5X6iEO7j3T0BJplw5IPRCML4vU8s6o_ll7YngojRconEMTqfiWO_UI3YKsG7gKi-8uJ-tSBNfDx9Gna-e3F-XNUyI5Uq6yK-U4JQ0cOuQEqg4ReXF9uCuT9rt-EYf-BrmQalVgUTCwjYCTeKuNDu5L90Aby44u0XKiReEu6KKDiM-HjDja4hJamFWys0LWE24QL0D8HvCJ1w-EeOFoJd3kuu8P4onvjr_HindTuZbozjzM9TmrY8Yd2ip0k7Y4VAv9nO5eBat8fJx7qv1l7WLuoHjNphMaWeYi3x3l5bb_0DD_WxOcthMjuar24fXnif7f9Iu3hdlCFNB4QNMsPaT-Ijd0WHyrRUNPFmOMXF-l5pIUwgiLZgN2iTb5l_DRy6BYoVCFbkrwCcvDK0YDx8xyuJ28s8MPwH_4xQ1" height="1000" style=""></iframe>
