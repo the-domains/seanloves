@@ -1,8 +1,8 @@
 ---
 inFeed: false
 description: Curriculum Vitae
-dateModified: '2017-06-26T15:38:13.314Z'
-datePublished: '2017-06-26T15:38:13.838Z'
+dateModified: '2017-06-26T15:39:15.489Z'
+datePublished: '2017-06-26T15:39:16.270Z'
 title: ''
 author: []
 publisher: {}
@@ -32,8 +32,6 @@ _DIRECTOR, CAPSLOCK LTD; LONDON, UK --- 2014-2017_
 Co-founded a small company in 2014 as a creative start up collaboration with Swedish business partner. We offer video production, photographic services, sound design, creative writing and develop ideas for the TV and film industry. Based at The Sharp Project, a digital hub housing approximately 60 companies all working in the digital, photographic, TV and film sector. [Link][0]
 
 _CREATIVE DIRECTOR, MONKEYSWAG; MANCHESTER, UK --- 2011-2014_
-
-    I joined this small e-commerce business when it was essentially an eBay shop. Position was varied and wide ranging. Opened up e-commerce channels, created a new website and implemented streamlined workflows. Increased turnover 500%. Installed a photography studio and learned a great deal about still life photography and how to photograph watches and small reflective objects. We successfully captured a large portion of a niche watch-strap market by utilising imagery that was above and beyond what anyone else was doing at the time, while remaining competitive on pricing and offering a level of service that was unsurpassed.
 
 I joined this small e-commerce business when it was essentially an eBay shop. Position was varied and wide ranging. Opened up e-commerce channels, created a new website and implemented streamlined workflows. Increased turnover 500%. Installed a photography studio and learned a great deal about still life photography and how to photograph watches and small reflective objects. We successfully captured a large portion of a niche watch-strap market by utilising imagery that was above and beyond what anyone else was doing at the time, while remaining competitive on pricing and offering a level of service that was unsurpassed.
 
