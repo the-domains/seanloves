@@ -41,7 +41,7 @@ navigation:
     type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/defe6c11-5028-4b6a-8b11-5c5f2c452f0d.png
-title: Hello House Of Radon
+title: 'Awaiting feedback :)'
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
     type: image
