@@ -96,7 +96,4 @@ purpose:
   - type: contact
     url: 'mailto:info@mrsean.xyz'
     label: Email
-  - type: internal
-    label: Video
-    item: bb17519a-1bce-4f70-b1a8-7c3759092e62
 github: true
